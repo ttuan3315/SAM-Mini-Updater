@@ -1,0 +1,2 @@
+1.1.0 
+https://github.com/ttuan3315/SAM-Mini-Updater/releases/download/v1.3.0/SAM_STM32_v1.3.0.zip
